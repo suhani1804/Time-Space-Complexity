@@ -1,0 +1,16 @@
+" Time complexity does not refer to the time taken by the machine to execute a particular code. "
+
+Explanation:- Suppose you run a code on an old windows machine and a latest macbook.We will observe the time taken for same code to be executed is different.
+
+" The rate at which the time, required to run a code, changes with respect to the input size, is considered the time complexity. "
+
+Explanation:- Basically, the time complexity of a particular code depends on the given input size, not on the machine used to run the code.
+                                    
+
+To represent the time complexity, we generally use the Big O notation.i.e write in terms of Big O notation, like O(no. of steps).
+
+The three rules, that we are going to follow while calculating the time complexity:
+
+1.We will always calculate the time complexity for the worst-case scenario.
+2.We will avoid including the constant terms.
+3.We will also avoid the lower values.

@@ -1,0 +1,10 @@
+" The term space complexity generally refers to the memory space that a code uses while being executed. Again space complexity is also dependent on the machine and so we are going to represent the space complexity using the Big O notation instead of using the standard units of memory like MB, GB, etc. "
+
+Space complexity= Auxilary Space + Input space
+
+Auxilary space:-The space that you take to solve the problem.
+Input space:= The space that you take to store the input.
+
+Example:- we take a variable A and B 
+and variable C=A+B
+Here A and B are the Input space and C is the Auxilary space.
